@@ -21,14 +21,6 @@ Para rodar o servidor, simplesmente digite os seguintes comandos no terminal, en
 | Linux   | `./mvnw spring-boot:run`   |
 | Windows | `mvnw.cmd spring-boot:run` |
 
-Para Linux:
-
-```./mvnw spring-boot:run```
-
-Para Windows:
-
-```mvnw.cmd spring-boot:run```
-
 Esse comando irá iniciar o servidor no `http://localhost:8080`
 
 Os endpoints disponíveis são:
